@@ -1,0 +1,43 @@
+{
+    "outputResultMessage": {
+        "message": "",
+        "result": "S"
+    },
+    "shoppingCartGoods": [
+        {
+            "goodsID": 3,
+            "goodsName": "spring_original",
+            "goodsPrice": 20,
+            "goodQuantity": 3,
+            "buyQuantity": 2,
+            "addBuyQuantity": 2,
+            "goodsImageName": "spring_original.jpg",
+            "status": "1",
+            "note": "0"
+        },
+        {
+            "goodsID": 7,
+            "goodsName": "Cascara Macchiato",
+            "goodsPrice": 140,
+            "goodQuantity": 11,
+            "buyQuantity": 1,
+            "addBuyQuantity": 1,
+            "goodsImageName": "20190124150636383.jpg",
+            "status": "1",
+            "note": "0"
+        },
+        {
+            "goodsID": 10,
+            "goodsName": "White Chocolate Mocha",
+            "goodsPrice": 135,
+            "goodQuantity": 14,
+            "buyQuantity": 5,
+            "addBuyQuantity": 5,
+            "goodsImageName": "20190315112127432.jpg",
+            "status": "1",
+            "note": "0"
+        }
+    ],
+    "totalCount": 8,
+    "totalAmount": 855
+}

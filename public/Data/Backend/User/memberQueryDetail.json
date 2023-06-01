@@ -1,0 +1,16 @@
+{
+    "outputResultMessage": {
+        "message": "查詢成功!",
+        "result": "S"
+    },
+    "member": [
+        {
+            "id": "A124243295",
+            "name": "Jay",
+            "pwd": "123",
+            "status": "1",
+            "statusName": "啟用"
+        }
+    ],
+    "totalCount": 1
+}

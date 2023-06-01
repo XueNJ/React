@@ -1,0 +1,16 @@
+{
+    "outputResultMessage": {
+        "message": "查詢成功!",
+        "result": "S"
+    },
+    "member": [
+        {
+            "id": "1",
+            "name": "max",
+            "pwd": "1",
+            "status": "1",
+            "statusName": "啟用"
+        }
+    ],
+    "totalCount": 1
+}

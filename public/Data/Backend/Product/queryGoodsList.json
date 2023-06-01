@@ -1,0 +1,105 @@
+{
+    "totalCount": 29,
+    "goods": [
+        {
+            "goodsID": 1,
+            "goodsName": "coke_original",
+            "goodsPrice": 100,
+            "goodsQuantity": 0,
+            "goodsImageName": "coke_original.jpg",
+            "status": "1",
+            "statusName": "啟用",
+            "strImagePath": "//DrinksImage//coke_original.jpg"
+        },
+        {
+            "goodsID": 2,
+            "goodsName": "fanta_grape",
+            "goodsPrice": 7,
+            "goodsQuantity": 20,
+            "goodsImageName": "fanta_grape.jpg",
+            "status": "1",
+            "statusName": "啟用",
+            "strImagePath": "//DrinksImage//fanta_grape.jpg"
+        },
+        {
+            "goodsID": 3,
+            "goodsName": "spring_original",
+            "goodsPrice": 20,
+            "goodsQuantity": 3,
+            "goodsImageName": "spring_original.jpg",
+            "status": "1",
+            "statusName": "啟用",
+            "strImagePath": "//DrinksImage//spring_original.jpg"
+        },
+        {
+            "goodsID": 4,
+            "goodsName": "coke_zero",
+            "goodsPrice": 10,
+            "goodsQuantity": 0,
+            "goodsImageName": "coke_zero.jpg",
+            "status": "1",
+            "statusName": "啟用",
+            "strImagePath": "//DrinksImage//coke_zero.jpg"
+        },
+        {
+            "goodsID": 5,
+            "goodsName": "pepsi_original",
+            "goodsPrice": 25,
+            "goodsQuantity": 15,
+            "goodsImageName": "pepsi_original.jpg",
+            "status": "1",
+            "statusName": "啟用",
+            "strImagePath": "//DrinksImage//pepsi_original.jpg"
+        },
+        {
+            "goodsID": 6,
+            "goodsName": "fanta_orange",
+            "goodsPrice": 25,
+            "goodsQuantity": 6,
+            "goodsImageName": "fanta_orange.jpg",
+            "status": "1",
+            "statusName": "啟用",
+            "strImagePath": "//DrinksImage//fanta_orange.jpg"
+        },
+        {
+            "goodsID": 7,
+            "goodsName": "Cascara Macchiato",
+            "goodsPrice": 140,
+            "goodsQuantity": 11,
+            "goodsImageName": "20190124150636383.jpg",
+            "status": "1",
+            "statusName": "啟用",
+            "strImagePath": "//DrinksImage//20190124150636383.jpg"
+        },
+        {
+            "goodsID": 8,
+            "goodsName": "Iced Cascara",
+            "goodsPrice": 140,
+            "goodsQuantity": 7,
+            "goodsImageName": "20190124151236425.jpg",
+            "status": "1",
+            "statusName": "啟用",
+            "strImagePath": "//DrinksImage//20190124151236425.jpg"
+        },
+        {
+            "goodsID": 9,
+            "goodsName": "Dark Caramel Latte",
+            "goodsPrice": 140,
+            "goodsQuantity": 12,
+            "goodsImageName": "20190314152120770.jpg",
+            "status": "1",
+            "statusName": "啟用",
+            "strImagePath": "//DrinksImage//20190314152120770.jpg"
+        },
+        {
+            "goodsID": 10,
+            "goodsName": "White Chocolate Mocha",
+            "goodsPrice": 135,
+            "goodsQuantity": 14,
+            "goodsImageName": "20190315112127432.jpg",
+            "status": "1",
+            "statusName": "啟用",
+            "strImagePath": "//DrinksImage//20190315112127432.jpg"
+        }
+    ]
+}

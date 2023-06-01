@@ -1,0 +1,35 @@
+{
+    "outputResultMessage": {
+        "message": "交易成功，訂單已成功建立！",
+        "result": "S"
+    },
+    "outputShoppingCartGoodsInfo": {
+        "outputResultMessage": null,
+        "shoppingCartGoods": [
+            {
+                "goodsID": 3,
+                "goodsName": "spring_original",
+                "goodsPrice": 20,
+                "goodQuantity": 3,
+                "buyQuantity": 1,
+                "addBuyQuantity": 1,
+                "goodsImageName": "spring_original.jpg",
+                "status": "1",
+                "note": "0"
+            },
+            {
+                "goodsID": 5,
+                "goodsName": "pepsi_original",
+                "goodsPrice": 25,
+                "goodQuantity": 15,
+                "buyQuantity": 1,
+                "addBuyQuantity": 1,
+                "goodsImageName": "pepsi_original.jpg",
+                "status": "1",
+                "note": "0"
+            }
+        ],
+        "totalCount": 0,
+        "totalAmount": 45
+    }
+}

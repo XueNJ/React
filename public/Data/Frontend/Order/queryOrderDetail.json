@@ -1,0 +1,45 @@
+{
+    "outputResultMessage": {
+        "message": "查詢成功!",
+        "result": "S"
+    },
+    "totalCount": 1,
+    "orders": [
+        {
+            "orderDate": "2023-05-03T16:10:08",
+            "totalAmount": 267,
+            "customerName": "max",
+            "customerID": "1",
+            "orderID": 1,
+            "orderDetails": [
+                {
+                    "orderDetailID": 1,
+                    "goodsImageName": "coke_original.jpg",
+                    "goodsName": "coke_original",
+                    "goodsBuyPrice": 100,
+                    "buyQuantity": 2,
+                    "buyAmount": 200,
+                    "imagePath": "//DrinksImage//coke_original.jpg"
+                },
+                {
+                    "orderDetailID": 3,
+                    "goodsImageName": "fanta_grape.jpg",
+                    "goodsName": "fanta_grape",
+                    "goodsBuyPrice": 7,
+                    "buyQuantity": 1,
+                    "buyAmount": 7,
+                    "imagePath": "//DrinksImage//fanta_grape.jpg"
+                },
+                {
+                    "orderDetailID": 2,
+                    "goodsImageName": "spring_original.jpg",
+                    "goodsName": "spring_original",
+                    "goodsBuyPrice": 20,
+                    "buyQuantity": 3,
+                    "buyAmount": 60,
+                    "imagePath": "//DrinksImage//spring_original.jpg"
+                }
+            ]
+        }
+    ]
+}

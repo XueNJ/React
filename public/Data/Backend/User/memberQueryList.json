@@ -1,0 +1,72 @@
+{
+    "outputResultMessage": {
+        "message": "查詢成功!",
+        "result": "S"
+    },
+    "member": [
+        {
+            "id": "1",
+            "name": "max",
+            "pwd": "1",
+            "status": "1",
+            "statusName": "啟用"
+        },
+        {
+            "id": "2",
+            "name": "mary",
+            "pwd": "2",
+            "status": "0",
+            "statusName": "停用"
+        },
+        {
+            "id": "A124243295",
+            "name": "Jay",
+            "pwd": "123",
+            "status": "1",
+            "statusName": "啟用"
+        },
+        {
+            "id": "D201663865",
+            "name": "Tiffany",
+            "pwd": "123",
+            "status": "1",
+            "statusName": "啟用"
+        },
+        {
+            "id": "F126873254",
+            "name": "Rita",
+            "pwd": "123",
+            "status": "1",
+            "statusName": "啟用"
+        },
+        {
+            "id": "G436565447",
+            "name": "Wendy",
+            "pwd": "123",
+            "status": "1",
+            "statusName": "啟用"
+        },
+        {
+            "id": "J213664153",
+            "name": "Jolin",
+            "pwd": "123",
+            "status": "1",
+            "statusName": "啟用"
+        },
+        {
+            "id": "test12",
+            "name": "kk",
+            "pwd": "1",
+            "status": "1",
+            "statusName": "啟用"
+        },
+        {
+            "id": "test33",
+            "name": "kitty",
+            "pwd": "1",
+            "status": "1",
+            "statusName": "啟用"
+        }
+    ],
+    "totalCount": 9
+}

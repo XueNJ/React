@@ -1,0 +1,15 @@
+{
+    "totalCount": 1,
+    "goods": [
+        {
+            "goodsID": 1,
+            "goodsName": "coke_original",
+            "goodsPrice": 100,
+            "goodsQuantity": 0,
+            "goodsImageName": "coke_original.jpg",
+            "status": "1",
+            "statusName": "啟用",
+            "strImagePath": "//DrinksImage//coke_original.jpg"
+        }
+    ]
+}

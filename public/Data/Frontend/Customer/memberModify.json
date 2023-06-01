@@ -1,0 +1,13 @@
+{
+    "outputMember": {
+        "id": "1",
+        "name": "max",
+        "pwd": "1",
+        "status": "1",
+        "statusName": null
+    },
+    "outputResultMessage": {
+        "message": "更新成功!",
+        "result": "S"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "outputMember": {
+        "id": "3",
+        "name": "2",
+        "pwd": "1",
+        "status": "1",
+        "statusName": null
+    },
+    "outputResultMessage": {
+        "message": "新增成功!",
+        "result": "S"
+    }
+}

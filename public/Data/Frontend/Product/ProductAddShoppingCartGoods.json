@@ -1,0 +1,17 @@
+{
+    "outputResultMessage": {
+        "message": "加入購物車成功!",
+        "result": "S"
+    },
+    "outputShoppingCartGoods": {
+        "goodsID": 10,
+        "goodsName": "White Chocolate Mocha",
+        "goodsPrice": 135,
+        "goodQuantity": 14,
+        "buyQuantity": 5,
+        "addBuyQuantity": 5,
+        "goodsImageName": "20190315112127432.jpg",
+        "status": "1",
+        "note": null
+    }
+}

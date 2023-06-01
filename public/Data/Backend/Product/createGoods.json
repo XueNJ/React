@@ -1,0 +1,16 @@
+{
+    "outputResultMessage": {
+        "message": "新增成功!",
+        "result": "S"
+    },
+    "outputGoods": {
+        "goodsID": 1,
+        "goodsName": "coke_original",
+        "goodsPrice": 100,
+        "goodsQuantity": 0,
+        "goodsImageName": "coke_original.jpg",
+        "status": "1",
+        "statusName": null,
+        "strImagePath": null
+    }
+}
